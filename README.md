@@ -1,2 +1,2 @@
 # f1_analytics
-Practice application for the "Coderhouse- Data Engineer" course - Using a free API, a system is regenerated that allows analysis of the historical and current information of Formula 1 drivers and teams
+Open Source application for Analize F1 data and expose in a dashboard - Using a free API, it generates a system that allows analysis of the historical and current information of Formula 1 drivers and teams
